@@ -1,0 +1,17 @@
+{
+  "name": "ITMO Sail — парусная секция",
+  "short_name": "ITMO Sail",
+  "description": "Запись на тренировки парусной секции ИТМО",
+  "lang": "ru",
+  "start_url": "./index.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#071426",
+  "theme_color": "#12284d",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

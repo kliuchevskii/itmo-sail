@@ -1,0 +1,10 @@
+htdocs/inc/config.php
+htdocs/storage/*
+!htdocs/storage/.htaccess
+!htdocs/storage/docs/
+htdocs/storage/docs/*
+!htdocs/storage/docs/.keep
+*.sqlite
+*.log
+.DS_Store
+Thumbs.db
